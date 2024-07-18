@@ -2,3 +2,6 @@ titanic
 shakespear
 rambo
 true lies
+
+garfield
+cocoa tea
